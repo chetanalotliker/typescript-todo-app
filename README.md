@@ -1,4 +1,4 @@
-# Learn NestJS Event Emitter
+# Learn Typescript TODO Application
 
 Learning typescript todo list application includes learning of the typescript features and es6
 
