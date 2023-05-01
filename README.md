@@ -1,18 +1,46 @@
-# New Project
+# Learn NestJS Event Emitter
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+Learning typescript todo list application includes learning of the typescript features and es6
 
-## Available Scripts
+## Test Demo
 
-### npm start
+Start the server by running the following command in the CLI or Terminal
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+```
+npm run start
+```
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+First install the required package:
 
-### npm run build
+```
+npx create-snowpack-app . --template
+  @snowpack/app-template-blank-typescript
+```
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+```
+npm i --save-dev @types/uuid
+```
+
+## Description
+
+Learning the typescript features
+
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+```
+
+## Build the app
+
+```bash
+# development
+$ npm run build
+```
